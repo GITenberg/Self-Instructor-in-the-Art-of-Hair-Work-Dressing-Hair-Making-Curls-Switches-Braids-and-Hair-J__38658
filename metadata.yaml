@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39597'
     url: http://www.gutenberg.org/2009/agents/39597
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38658#Self-Instructor-in-the-Art-of-Hair-Work-Dressing-Hair-Making-Curls-Switches-Braids-and-Hair-J_
 gutenberg_bookshelf:
 - Technology
 - Crafts
